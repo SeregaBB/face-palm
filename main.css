@@ -1,0 +1,23 @@
+body {
+ background-color: #000;
+}
+
+.header {
+    width: 100%;
+    text-align: center;
+}
+
+.header__title {
+    font-size: 1.5em;
+    color: #fff;
+    text-decoration: underline;
+}
+
+.picard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 15px;
+}
+
